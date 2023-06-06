@@ -4,3 +4,9 @@
 [submodule "First Iteration + tut design/First Iteration/random-keyboard-parts.pretty"]
 	path = First Iteration + tut design/First Iteration/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "this one/MX_Alps_Hybrid"]
+	path = this one/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "this one/random-keyboard-parts.pretty"]
+	path = this one/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
